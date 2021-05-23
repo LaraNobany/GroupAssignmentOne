@@ -19,16 +19,3 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 }
-
-/*
-Information
-1. Name
-2. Phone
-3. email
-4. University
-5. Gender
-*/
-/*
-Search
-
- */
